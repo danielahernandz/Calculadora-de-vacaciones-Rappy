@@ -1,4 +1,4 @@
-"""Ejercicio: Compañia rappy solicita un sistema que determine los dias vacacionales de un trabajador. Tomando en cuenta
+#"""Ejercicio: Compañia rappy solicita un sistema que determine los dias vacacionales de un trabajador. Tomando en cuenta
 las siguientes caracteristicas:
 Atención al cliente (clave 1):
 -Reciben 6 días vacacionales por 1 año de servicio.
@@ -17,7 +17,7 @@ Gerencia (clave 3):
 
 Requerimientos:
 El sistema debe solicitar: Nombre, Clave de departamento y Antiguedad del trabajador desde teclado.
-El programa debe mostrar un mensaje en pantalla que contenga el nombre del L y los días de vacaciones que tienen derecho.
+El programa debe mostrar un mensaje en pantalla que contenga el nombre del L y los días de vacaciones que tienen derecho.#
 """
 print("SISTEMA DE CONTROL VACACIONAL RAPPY")
 print("===================================")
